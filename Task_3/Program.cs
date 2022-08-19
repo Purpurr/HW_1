@@ -8,5 +8,4 @@ if (a % 2 == 0)
     Console.WriteLine(a + " Чётное");
 }
 else
-
     Console.WriteLine(a + " Нечётное");
