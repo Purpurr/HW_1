@@ -11,5 +11,4 @@ if (a > b)
     Console.WriteLine(a + " > " + b);
 }
 else
-
     Console.WriteLine(b + " > " + a);
