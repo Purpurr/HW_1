@@ -12,4 +12,4 @@ if (a > b)
 }
 else
 
-    Console.WriteLine(b + " >" + a);
+    Console.WriteLine(b + " > " + a);
