@@ -15,5 +15,5 @@ if (num > 100)
 }
 else
 {
-    Console.WriteLine($"Во введённом числе {num} нет третьей цифры");
+    Console.WriteLine($"В числе {num} нет третьей цифры");
 }
