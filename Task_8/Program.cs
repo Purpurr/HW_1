@@ -10,7 +10,7 @@ for (int i = 1; i <= N; i++)
 
 // Второй вариант через метод:
 
-// Console.WriteLine("Введите число N: ");
+// Console.Write("Введите число N: ");
 // double N = Convert.ToDouble(Console.ReadLine());
 
 // for (int i = 1; i <= N; i++)
