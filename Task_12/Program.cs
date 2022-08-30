@@ -7,7 +7,6 @@ Console.Write("Введите число: ");
 int num = int.Parse(Console.ReadLine());
 
 int res = 0;
-int num1;
 int sum = 0;
 
 for (sum = 0; num > 0; sum += res)
