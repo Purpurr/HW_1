@@ -13,6 +13,6 @@ int deg = 1;
 
 for (i = 1; i <= B; i++)
 {
-    deg = A * deg;
+    deg *= A;
 }
 Console.WriteLine($"{A} в степени {B} = {deg}");
