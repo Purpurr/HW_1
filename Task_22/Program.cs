@@ -10,9 +10,9 @@
 8 4 4 2
 */
 
-int[,] FillMatrix(int rowsCount, int columnsCount, int leftRange = 0, int rightRange = 9)
+int[,] FillMatrix(int rows, int columns, int leftRange = 0, int rightRange = 9)
 {
-    int[,] matrix = new int[rowsCount, columnsCount];
+    int[,] matrix = new int[rows, columns];
 
     Random rand = new Random();
 
