@@ -33,9 +33,9 @@ void PrintMatrix(int[,] matrix)
     }
 }
 
-Console.WriteLine("Введите число строк: ");
+Console.Write("Введите число строк: ");
 int m = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите число столбцов: ");
+Console.Write("Введите число столбцов: ");
 int n = Convert.ToInt32(Console.ReadLine());
 
 int[,] firstMatrix = FillMatrix(m, n);
